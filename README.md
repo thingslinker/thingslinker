@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=XFW1LlWCBqA">
-    <img src="https://example.com/path/to/banner-image.jpg" alt="Client Name" width="800" height="300">
+    <img src="https://github.com/thingslinker/thingslinker/blob/master/thingslinker_banner.png" alt="Client Name">
   </a>
 </p>
 

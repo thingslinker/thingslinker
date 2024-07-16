@@ -1,4 +1,9 @@
-[![Alt text](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=XFW1LlWCBqA)
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=XFW1LlWCBqA">
+    <img src="https://example.com/path/to/banner-image.jpg" alt="Client Name" width="800" height="300">
+  </a>
+</p>
 
 
 <h1 align="center">Hi 👋, We're ThingsLinker</h1>
